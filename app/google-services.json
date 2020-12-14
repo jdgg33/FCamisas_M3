@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297824271439",
+    "project_id": "fcamisasm3",
+    "storage_bucket": "fcamisasm3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297824271439:android:1e88bfc1916fa81189be3a",
+        "android_client_info": {
+          "package_name": "com.example.fcamisas_m3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297824271439-3eteg9h4m08dlplnd56j4r4r36vpn976.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDftnTLg6RsBGtyu2rFay1nHWBb3_X5PyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297824271439-3eteg9h4m08dlplnd56j4r4r36vpn976.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

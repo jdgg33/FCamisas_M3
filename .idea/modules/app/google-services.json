@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444160279523",
+    "project_id": "fcamisasm3-2ecc0",
+    "storage_bucket": "fcamisasm3-2ecc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444160279523:android:d389de57d488cb322cd6d6",
+        "android_client_info": {
+          "package_name": "com.example.fcamisas_m3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444160279523-utdl9a8kghsdofbcsvfj7pl3bmbkf033.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcamisas_m3",
+            "certificate_hash": "a3c0e1cc7f5b2010285efeb2bf30bff20949e302"
+          }
+        },
+        {
+          "client_id": "444160279523-ngatf1nhmidcpoqvnndjqdekj0pvsh0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmFHNF6oKydjszq0optJawxd_pv_tNZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444160279523-ngatf1nhmidcpoqvnndjqdekj0pvsh0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
